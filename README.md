@@ -6,7 +6,7 @@
 
 ## Image from project
 
-<img src="components/imagem1.jpg" alt="Capture from project">
+<img src="\react-todo-app\src\imagem1.PNG" alt="Capture from project">
 
 
 ## Getting Started with Create React App
