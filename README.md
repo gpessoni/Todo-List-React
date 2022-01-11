@@ -1,11 +1,11 @@
-#To Do List with React App
+## To Do List with React App
 
 
  This project is a to do list with the things you need to do during the day
 
-## The project using React, JS and CSS
+### The project using React, JS and CSS
 
-## Image from project
+### Image from project
 
 <img src="\react-todo-app\src\imagem1.PNG" alt="Capture from project">
 
